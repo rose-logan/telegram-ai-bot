@@ -1,0 +1,7 @@
+*.session
+*.db
+__pycache__/
+temp_voice/
+*.log
+ffmpeg.exe
+ffprobe.exe
